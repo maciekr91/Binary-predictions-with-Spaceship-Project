@@ -20,4 +20,4 @@ Our main goal is, obviously, achieving the best possible accuracy of prediction.
 
 ## Final result
 
-All side goals mentioned above were realized and best submission on Kaggle have accuracy score of 0.80640 which gave 185th position out of 2193 competitors (91 percentile).
+All side goals mentioned above were realized and best submission on Kaggle have accuracy score of 0.80640 which gave 185th position out of 2193 competitors (91 percentile) at the time of submiting.
