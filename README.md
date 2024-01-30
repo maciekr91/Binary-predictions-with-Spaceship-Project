@@ -1,5 +1,7 @@
 # Spaceship Titanic
 
+![Spaceship](image2.png)
+
 ## General info
 
 This project is one of the Kaggle's Prediction Competitions. The goal of the project is to predict which passengers were transported into alternate dimension after spaceship collided with spacetime anomally. The final result is evaluated based on classification accuracy - the percentage of predicted labels that are correct. There are two possibilities - transported or not, so we will perform binary classification.
